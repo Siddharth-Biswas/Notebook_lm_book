@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-st.title("My Notebook LM App")
+st.title("My Notebook LM App for Story Telling")
 
 notebook_lm_link = "https://notebooklm.google.com/notebook/e217b31f-bf1a-481c-868c-91e5fe353826?_gl=1*mjn46j*_ga*MjQ4MTA3MzQwLjE3NDUxNjU4MzA.*_ga_W0LDH41ZCB*MTc0NTE2NTgyOS4xLjAuMTc0NTE2NTgyOS42MC4wLjA.&original_referer=https:%2F%2Fnotebooklm.google%23&pli=1&authuser=8"
 
